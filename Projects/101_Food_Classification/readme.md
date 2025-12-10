@@ -1,13 +1,5 @@
 # 🍽️ Food-101 Large-Scale Classification using EfficientNetV2B0
 
-## A Resource-Efficient Deep Learning Solution for Fine-Grained Food Recognition
-
-[](https://www.google.com/search?q=LICENSE)
-[](https://www.tensorflow.org/)
-[](https://www.python.org/)
-
------
-
 ## 🚀 Project Overview
 
 This repository presents a robust deep learning model for classifying 101 distinct food categories from the challenging **Food-101 dataset**. By employing **EfficientNetV2B0** and a meticulous two-phase transfer learning strategy, we achieved high predictive performance while maintaining computational efficiency—a critical balance for real-world deployment.
@@ -20,20 +12,6 @@ This repository presents a robust deep learning model for classifying 101 distin
 | **Model** | EfficientNetV2B0 (Pretrained) |
 | **Strategy** | Transfer Learning + Fine-Tuning |
 
------
-
-## 📚 Table of Contents
-
-1.  [Motivation](https://www.google.com/search?q=%231-motivation)
-2.  [The Food-101 Dataset](https://www.google.com/search?q=%232-the-food-101-dataset)
-3.  [Model Architecture: EfficientNetV2B0](https://www.google.com/search?q=%233-model-architecture-efficientnetv2b0)
-4.  [Methodology: Two-Phase Training](https://www.google.com/search?q=%234-methodology-two-phase-training)
-5.  [Training Configuration & Regularization](https://www.google.com/search?q=%235-training-configuration--regularization)
-6.  [Results and Analysis](https://www.google.com/search?q=%236-results-and-analysis)
-7.  [Getting Started (Setup)](https://www.google.com/search?q=%237-getting-started-setup)
-8.  [Future Work](https://www.google.com/search?q=%238-future-work)
-
------
 
 ## 1\. Motivation
 
